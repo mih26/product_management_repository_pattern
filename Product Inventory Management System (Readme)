@@ -1,0 +1,7 @@
+Product Inventory Management System Using Repository Pattern: 
+First Insert Company Details and then Insert product Inventory Infromation (CRUD)
+Implemented the Repository and Unit of Work Patterns
+Ajax Paging with X.PagedList
+Insert/Edit parent with child
+User confirmation before delete
+Database migration is applied programmatically using HostedService.Just change the connection string in the appSetting.json file.
